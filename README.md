@@ -110,4 +110,4 @@ Dim_Date ───────┘
 
 ## 🙋 Author
 
-Feel free to connect on [LinkedIn](#) or open an issue if you have any questions!
+Feel free to connect on [[LinkedIn](https://www.linkedin.com/in/basma-zakaria-a59a72328/)](#) or open an issue if you have any questions!
