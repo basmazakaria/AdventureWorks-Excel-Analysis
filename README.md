@@ -101,11 +101,10 @@ Dim_Date ───────┘
 
 ## 🚀 How to Use
 
-1. Clone or download the repository
-2. Open `AdventureWorks_Dashboard.xlsx` in Microsoft Excel
-3. If prompted, update the data source connection to your local SQL Server
-4. Refresh Power Query (`Data → Refresh All`)
-5. Explore the dashboard using the slicers
+1. Download the Excel file
+2. Open in Microsoft Excel
+3. Explore the dashboard using the slicers
+4. Analyze KPIs and charts
 
 ---
 
